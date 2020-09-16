@@ -1,9 +1,9 @@
 # Namaste 🙏
 
 ```javascript
-const profile = {
-          name: "Sarad Singh",
-          nick: "theArkein",
-          jobprofile: "Full Stack Web Developer"
+const PROFILE = {
+          Name: "Sarad Singh",
+          Nick: "theArkein",
+          Job Profile: "Full Stack Web Developer"
      }
 ```
