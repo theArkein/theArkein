@@ -2,8 +2,8 @@
 
 ```javascript
 const PROFILE = {
-          Name: "Sarad Singh",
-          Nick: "theArkein",
-          Job Profile: "Full Stack Web Developer"
+          name: "Sarad Singh",
+          nick: "theArkein",
+          jobProfile: "Full Stack Web Developer"
      }
 ```
