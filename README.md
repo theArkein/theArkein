@@ -30,7 +30,7 @@ I am a web developer. I like to make things more fascinating. <br>
 I want to acheive following in upcoming six months
 
 -   [ ] Start Writing on Internet <sub>![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
--   [ ] Score 1000 karma points on reddit <sub>![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/leosarad100?label=Reddit%20Karma) ![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
+-   [ ] Score 1000 karma points on reddit <sub><a href="https://www.reddit.com/user/leosarad100">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/leosarad100?label=Reddit%20Karma)</a> ![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
 -   [ ] Have a nice fascinating portfolio website <sub>![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
 
 ## <sub> Find me on &nbsp; <sub><sup>🔍</sup></sub> </sub>
