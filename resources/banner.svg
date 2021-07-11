@@ -1,0 +1,51 @@
+<svg fill="none" viewBox="0 0 800 140" width="800" height="140" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+                @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900');
+				.wrapper{
+					background-color: #181818;
+					color: #fff;
+					width: 100%;
+					height: 140px;
+                    display: flex;
+                    align-items: center;
+                    font-family: 'Poppins'
+				}
+                .left{
+                    display: flex;
+                    width: 20%;
+                    justify-content: center;
+                }
+                .right{
+                    width: 70%;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: left;
+                }
+                .greeting-image{
+                    width: 100px;
+                }
+                .greeting-words{
+                    font-size: 64px;
+                    font-weight: 700;
+                }
+                .intro{
+                    font-size: 24px;
+                }
+                .intro .alias-prefix{
+
+                }
+			</style>
+			<div class="wrapper">
+                <div class="left">
+                    ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+                </div>
+                <div class="right">
+    				<div class="greeting-words">Hello Wolrd!</div>
+                    <div class="intro">I am <span class='alias-pre'>the</span><span class='alias-main'>Arkein</span></div>
+                </div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
