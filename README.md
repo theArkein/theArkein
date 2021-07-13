@@ -6,7 +6,7 @@ I am a Computer Science graduate with a penchant for web development. I am passi
 
 ## <sub> Skill set &nbsp;🧰</sub>
 ![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat-square&labelColor=white)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=social)
 ![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
