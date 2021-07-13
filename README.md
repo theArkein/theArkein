@@ -1,4 +1,4 @@
-# <sub> Namaste 🙏🏼, I am [Sarad](www.saradsingh.com.np) </sub>
+# <sub> Namaste 🙏🏼, I am Sarad </sub>
 
 <img src="./resources/banner.gif" width="100%">
 
