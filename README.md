@@ -5,13 +5,17 @@
 I am a Computer Science graduate with a penchant for web development. I am passionate about enhancing user experience and maximizing user interface.
 
 ## <sub> Skill set &nbsp;🧰</sub>
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat-square&labelColor=white)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=social)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+
+![ ](https://img.shields.io/badge/-Figma-000?logo=Figma&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-HTML5-000?logo=HTML5&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-CSS3-000?logo=CSS3&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-Node.Js-000?logo=Node.js&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-Express-000?logo=Express&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-Git-000?logo=Git&style=social) &nbsp;
+![ ](https://img.shields.io/badge/-Postman-000?logo=Postman&style=social) &nbsp;
+
 
 
 <!-- <img align="left" alt="Figma" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
@@ -42,6 +46,10 @@ I want to acheive following in upcoming six months
 -   [ ] Have a nice fascinating portfolio website <sub>![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
 
 ## <sub> Find me on &nbsp; <sub><sup>🔍</sup></sub> </sub>
+
+<a href="mailto: leosarad100@gmail.com">![](https://img.shields.io/badge/-Gmail-000?logo=Gmail&style=social)</a> &nbsp;
+<a href="mailto: leosarad100@gmail.com">![](https://img.shields.io/badge/-Gmail-000?logo=Gmail&style=social)</a> &nbsp;
+<br>
 
 <a href="mailto: leosarad100@gmail.com" target="blank"><img align="left" alt="Gmail: leosarad100@gmail.com" height="18px" src="https://image.flaticon.com/icons/png/512/732/732200.png" /></a>
 
