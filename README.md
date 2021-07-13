@@ -2,11 +2,19 @@
 
 <img src="./resources/banner.gif" width="100%">
 
-I am a web developer. I like to make things more fascinating. <br>
+I am a Computer Science graduate with a penchant for web development. I am passionate about enhancing user experience and maximizing user interface.
 
 ## <sub> Skill set &nbsp;🧰</sub>
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=flat-square&labelColor=white)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
+![ ](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 
-<img align="left" alt="Figma" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+
+<!-- <img align="left" alt="Figma" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 <img align="left" alt="HTML" height="20px" src="https://image.flaticon.com/icons/png/512/919/919827.png" />
 <img align="left" alt="CSS" height="20px" src="https://image.flaticon.com/icons/png/512/919/919826.png" />
 <img align="left" alt="Javascript" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
@@ -16,7 +24,7 @@ I am a web developer. I like to make things more fascinating. <br>
 <img align="left" alt="Git" height="20px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="Github" height="20px" src="./resources/github.png" />
 <img align="left" alt="VsCode" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1920px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="" alt="Postman" height="20px" src="./resources/postman.png" />
+<img align="" alt="Postman" height="20px" src="./resources/postman.png" /> -->
 
 ## <sub> I enjoy &nbsp;😃 </sup>
 
@@ -47,9 +55,11 @@ I want to acheive following in upcoming six months
 
 <a href="https://www.discord.com/users/277838062728511489" target="_blank"><img align="left" alt="Discord: theArkein#4617" height="18px" src="https://image.flaticon.com/icons/png/128/2111/2111370.png" /></a>
 
+
+<a href="https://lichess.org/@/theArkein" target="_blank"><img align="left" alt="Lichess: theArkein" height="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Lichess_Logo.svg/1200px-Lichess_Logo.png" /></a>
+
 <a href="tel: 9779841090732"><img align="left" alt="Phone: +977 9841090732" height="18px" src="https://image.flaticon.com/icons/png/512/724/724664.png" /></a>
 
 <a href="https://www.reddit.com/user/leosarad100" target="_blank"><img alt="Reddit: leosarad100" height="18px" src="https://image.flaticon.com/icons/png/512/2111/2111589.png" /></a>
 <br>
 <br>
-![GitHub watchers](https://img.shields.io/github/watchers/theArkein/theArkein?label=Profile%20Views)
