@@ -2,7 +2,7 @@
 
 <img src="./resources/banner.gif" width="100%">
 
-I am a Computer Science graduate with a penchant for web development. I am passionate about enhancing user experience and maximizing user interface.
+I am a Computer Science undergraduate with a penchant for web development. I am passionate about enhancing user experience and maximizing user interface.
 
 ## <sub> Skill set &nbsp;🧰</sub>
 
