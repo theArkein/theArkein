@@ -34,7 +34,7 @@ I want to acheive following in upcoming six months
 
 ## <sub> Find me on &nbsp; <sub><sup>🔍</sup></sub> </sub>
 
-<sub href="mailto: leosarad100@gmail.com">![](https://img.shields.io/badge/-Gmail-000?logo=Gmail&style=social)</sub> &nbsp;
+<a href="mailto:leosarad100@gmail.com">![](https://img.shields.io/badge/-Gmail-000?logo=Gmail&style=social)</a> &nbsp;
 <a href="https://www.linkedin.com/in/leosarad-in/">![](https://img.shields.io/badge/-LinkedIn-000?logo=LinkedIn&style=social)</a> &nbsp;
 <a href="https://www.saradsingh.com.np">![](https://img.shields.io/badge/-Web-000?logo=Google%20Earth&style=social)</a> &nbsp;
 <a href="https://www.discord.com/users/277838062728511489">![](https://img.shields.io/badge/-Discord-000?logo=Discord&style=social)</a> &nbsp;
