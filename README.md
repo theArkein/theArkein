@@ -24,14 +24,14 @@ I am a Computer Science undergraduate with a penchant for web development. I am 
 -   Watching Movies 🍿
 -   Following Stock Market, <a href="https://en.wikipedia.org/wiki/Nepal_Stock_Exchange"> NEPSE </a> 📈
 
-## <sub> Six Month Goals &nbsp; ⛳️ </sub>
+<!-- ## <sub> Six Month Goals &nbsp; ⛳️ </sub>
 
 I want to acheive following in upcoming six months
 
 -   [ ] Start Writing on Internet <sub>![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
 -   [ ] Score 1000 karma points on reddit <sub><a href="https://www.reddit.com/user/leosarad100">![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/leosarad100?label=Reddit%20Karma)</a> ![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
 -   [ ] Have a nice fascinating portfolio website <sub>![Relative date](https://img.shields.io/date/1625755889?label=Committed)</sub>
-
+ -->
 ## <sub> Find me on &nbsp; <sub><sup>🔍</sup></sub> </sub>
 
 <a href="mailto:leosarad100@gmail.com">![](https://img.shields.io/badge/-Gmail-000?logo=Gmail&style=social)</a> &nbsp;
