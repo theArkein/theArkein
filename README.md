@@ -22,7 +22,6 @@ I am a Computer Science undergraduate with a penchant for web development. I am 
 -   Listening Music 🎧 <br>
 -   Playing chess ♖ <br>
 -   Watching Movies 🍿
--   Following Stock Market, <a href="https://en.wikipedia.org/wiki/Nepal_Stock_Exchange"> NEPSE </a> 📈
 
 <!-- ## <sub> Six Month Goals &nbsp; ⛳️ </sub>
 
